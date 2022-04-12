@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+
+<url>
+  <loc>https://foundation.manzoorahmed.com/</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/index</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/donation</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/about</loc>
+  <lastmod>2022-04-12T07:12:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/volunteers</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/become-volunteer</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/needs</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/news</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/contact</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/donors</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://foundation.manzoorahmed.com/started-manzoor-fondation</loc>
+  <lastmod>2022-04-12T07:12:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
