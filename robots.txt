@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: http://foundation.manzoorahmed.com/sitemap.xml
